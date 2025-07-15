@@ -18,8 +18,7 @@
 	<name>employees</name>
 	<description>Employee management project with Spring Boot, JPA, PostgreSQL, JSP</description>
 
-	<!-- Change packaging from default jar to war -->
-	<packaging>war</packaging>
+
 
 	<properties>
 		<java.version>17</java.version>
