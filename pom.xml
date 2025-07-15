@@ -11,6 +11,8 @@
 		<version>3.5.0</version>
 		<relativePath/>
 	</parent>
+	<packaging>war</packaging>
+
 
 	<groupId>com.example</groupId>
 	<artifactId>employees</artifactId>
